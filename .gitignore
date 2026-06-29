@@ -1,0 +1,14 @@
+# 环境变量 / 密钥
+.env
+.env.*
+*.key
+
+# Go 构建产物
+*.exe
+*.test
+*.out
+bin/
+
+# IDE
+.vscode/
+.idea/
