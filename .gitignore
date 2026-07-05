@@ -8,7 +8,22 @@
 *.test
 *.out
 bin/
+dist/
 
 # IDE
 .vscode/
 .idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Runtime data
+data/
+logs/
+traces/
+
+# Docker
+docker-compose.override.yml
