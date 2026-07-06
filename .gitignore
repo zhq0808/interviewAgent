@@ -18,6 +18,9 @@ dist/
 
 # OS
 .DS_Store
+
+# docs
+docs/
 Thumbs.db
 
 # Runtime data

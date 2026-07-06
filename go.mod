@@ -1,4 +1,4 @@
-module github.com/cherish/interview-agent
+module github.com/zhq0808/interviewAgent
 
 go 1.23
 
